@@ -12,7 +12,7 @@ Follow up: Solve the problem if repeated values on the tree are allowed.<br>
 <br>
 Example 1:<br>
 <br>  
-![e1](https://user-images.githubusercontent.com/62387061/103462699-1da36480-4d4d-11eb-9065-170bf7fdfe55.png)
+<image src = "https://user-images.githubusercontent.com/62387061/103462699-1da36480-4d4d-11eb-9065-170bf7fdfe55.png">
 <br>
 Input: tree = [7,4,3,null,null,6,19], target = 3<br>
 Output: 3<br>
@@ -20,7 +20,7 @@ Explanation: In all examples the original and cloned trees are shown. The target
 <br>
 Example 2:<br>
  <br>
-  ![e2](https://user-images.githubusercontent.com/62387061/103462743-665b1d80-4d4d-11eb-9ebd-d322fce8b6a9.png)
+  <image src = "https://user-images.githubusercontent.com/62387061/103462743-665b1d80-4d4d-11eb-9ebd-d322fce8b6a9.png">
  <br> 
 Input: tree = [7], target =  7<br>
 Output: 7<br>
@@ -28,7 +28,7 @@ Output: 7<br>
 <br>
 Example 3:<br>
 <br>
-  ![e3](https://user-images.githubusercontent.com/62387061/103462796-ade1a980-4d4d-11eb-94f5-401e0d0c0d1d.png)
+  <image src = "https://user-images.githubusercontent.com/62387061/103462796-ade1a980-4d4d-11eb-94f5-401e0d0c0d1d.png">
 <br>
 Input: tree = [8,null,6,null,5,null,4,null,3,null,2,null,1], target = 4<br>
 Output: 4<br>
@@ -36,7 +36,7 @@ Output: 4<br>
 <br>
 Example 4:<br>
 <br>
-  ![e4](https://user-images.githubusercontent.com/62387061/103462836-03b65180-4d4e-11eb-8b50-0aa68cd4e688.png)
+ <image src = "https://user-images.githubusercontent.com/62387061/103462836-03b65180-4d4e-11eb-8b50-0aa68cd4e688.png">
 <br>
 Input: tree = [1,2,3,4,5,6,7,8,9,10], target = 5<br>
 Output: 5<br>
@@ -44,7 +44,7 @@ Output: 5<br>
 <br>
 Example 5:<br>
 <br>
-  ![e5](https://user-images.githubusercontent.com/62387061/103462844-12046d80-4d4e-11eb-837b-d4fab2098c0d.png)
+ <image src = "https://user-images.githubusercontent.com/62387061/103462844-12046d80-4d4e-11eb-837b-d4fab2098c0d.png">
 <br>
 Input: tree = [1,2,null,3], target = 2<br>
 Output: 2<br>
