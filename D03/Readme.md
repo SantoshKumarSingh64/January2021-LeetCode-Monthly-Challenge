@@ -6,7 +6,6 @@ Suppose you have n integers from 1 to n. We define a beautiful arrangement as an
 &emsp; &emsp;•	i is divisible by the number at the ith position.<br>
 Given an integer n, return the number of the beautiful arrangements that you can construct.<br>
 <br> 
-<br>
 Example 1:<br>
 &emsp; &emsp;Input: n = 2<br>
 &emsp; &emsp;Output: 2<br>
@@ -21,7 +20,6 @@ Example 1:<br>
 Example 2:<br>
 &emsp; &emsp;Input: n = 1<br>
 &emsp; &emsp;Output: 1<br>
- <br>
  <br>
 Constraints:<br>
 &emsp; &emsp;•	1 <= n <= 15<br></p>
