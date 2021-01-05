@@ -18,7 +18,6 @@ Example 2:<br>
 &emsp; &emsp; Input: head = [1,1,1,2,3]<br>
 &emsp; &emsp; Output: [2,3]<br>
 <br>
-<br>
 Constraints:<br>
 &emsp; &emsp; •	The number of nodes in the list is in the range [0, 300].<br>
 &emsp; &emsp; •	-100 <= Node.val <= 100<br>
