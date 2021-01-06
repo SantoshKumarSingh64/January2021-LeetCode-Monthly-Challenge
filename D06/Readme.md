@@ -14,7 +14,6 @@ Example 2:<br>
 &emsp; &emsp;Output: 6<br>
 &emsp; &emsp;Explanation: The missing positive integers are [5,6,7,...]. The 2nd missing positive integer is 6.<br>
  <br>
- <br>
 Constraints:<br>
 &emsp; &emsp;•	1 <= arr.length <= 1000<br>
 &emsp; &emsp;•	1 <= arr[i] <= 1000<br>
