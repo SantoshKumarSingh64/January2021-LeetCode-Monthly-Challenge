@@ -5,7 +5,6 @@ Your goal is to form arr by concatenating the arrays in pieces in any order.<br>
 However, you are not allowed to reorder the integers in each array pieces[i].<br>
 Return true if it is possible to form the array arr from pieces. Otherwise, return false.<br>
 <br>
-<br>
 Example 1:<br>
  Input: arr = [85], pieces = [[85]]<br>
  Output: true<br>
