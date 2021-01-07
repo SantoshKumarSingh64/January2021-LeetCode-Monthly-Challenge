@@ -22,7 +22,6 @@ Example 4:<br>
 &emsp; &emsp;Input: s = ""<br>
 &emsp; &emsp;Output: 0<br>
 <br>
-<br>
 Constraints:<br>
 &emsp; &emsp;•	0 <= s.length <= 5 * 104<br>
 &emsp; &emsp;•	s consists of English letters, digits, symbols and spaces.<br>
