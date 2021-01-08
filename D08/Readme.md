@@ -20,7 +20,6 @@ Example 3:<br>
 &emsp; &emsp;Input: word1  = ["abc", "d", "defg"], word2 = ["abcddefg"]<br>
 &emsp; &emsp;Output: true<br>
 <br>
-<br>
 Constraints:<br>
 &emsp; &emsp;•	1 <= word1.length, word2.length <= 103<br>
 &emsp; &emsp;•	1 <= word1[i].length, word2[i].length <= 103<br>
