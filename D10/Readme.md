@@ -43,7 +43,8 @@ Example 3:<br>
 &emsp;&emsp;&emsp;&emsp;Insert 1 with cost min(0, 6) = 0, now nums = [1,1,2,2,3,3,3,4].<br>
 &emsp;&emsp;&emsp;&emsp;Insert 2 with cost min(2, 4) = 2, now nums = [1,1,2,2,2,3,3,3,4].<br>
 &emsp;&emsp;&emsp;&emsp;The total cost is 0 + 0 + 0 + 0 + 1 + 0 + 1 + 0 + 2 = 4.<br>
-<br> 
+<br>
+<br>
 Constraints:<br>
 &emsp;&emsp;•	1 <= instructions.length <= 10^5<br>
 &emsp;&emsp;•	1 <= instructions[i] <= 10^5<br>
