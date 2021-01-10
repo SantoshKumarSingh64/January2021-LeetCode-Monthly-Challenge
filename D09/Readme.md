@@ -1,6 +1,5 @@
 <h1> Word Ladder </h1>
 <p><br>
-<br>
 Given two words beginWord and endWord, and a dictionary wordList, return the length of the shortest transformation sequence from beginWord to endWord, such that:<br>
 &emsp; &emsp;•	Only one letter can be changed at a time.<br>
 &emsp; &emsp;•	Each transformed word must exist in the word list.<br>
@@ -15,7 +14,6 @@ Example 2:<br>
 &emsp; &emsp;Input: beginWord = "hit", endWord = "cog", wordList = ["hot","dot","dog","lot","log"]<br>
 &emsp; &emsp;Output: 0<br>
 &emsp; &emsp;Explanation: The endWord "cog" is not in wordList, therefore no possible transformation.<br>
- <br>
  <br>
 Constraints:<br>
 &emsp; &emsp;•	1 <= beginWord.length <= 100<br>
