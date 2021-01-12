@@ -17,7 +17,6 @@ Example 3:<br>
 &emsp;&emsp;Input: l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]<br>
 &emsp;&emsp;Output: [8,9,9,9,0,0,0,1]<br>
 <br>
-<br>
 Constraints:<br>
 &emsp;&emsp;•	The number of nodes in each linked list is in the range [1, 100].<br>
 &emsp;&emsp;•	0 <= Node.val <= 9<br>
