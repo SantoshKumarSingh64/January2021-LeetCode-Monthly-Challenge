@@ -19,7 +19,6 @@ Example 3:<br>
 &emsp;&emsp;&emsp;&emsp;Output: 4<br>
 &emsp;&emsp;&emsp;&emsp;Explanation: 4 boats (3), (3), (4), (5)<br>
 <br>
-<br>
 Note:<br>
 &emsp;&emsp;&emsp;&emsp;•	1 <= people.length <= 50000<br>
 &emsp;&emsp;&emsp;&emsp;•	1 <= people[i] <= limit <= 30000<br>
