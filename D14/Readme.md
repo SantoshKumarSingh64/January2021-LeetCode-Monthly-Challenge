@@ -17,7 +17,6 @@ Input: nums = [3,2,20,1,1,3], x = 10<br>
 Output: 5<br>
 Explanation: The optimal solution is to remove the last three elements and the first two elements (5 operations in total) to reduce x to zero.<br>
  <br>
- <br>
 Constraints:<br>
 •	1 <= nums.length <= 10^5<br>
 •	1 <= nums[i] <= 10^4<br>
