@@ -10,7 +10,6 @@ Example 2:<br>
 &emsp;&emsp;Input: [3,2,3,1,2,4,5,5,6] and k = 4<br>
 &emsp;&emsp;Output: 4<br>
 <br>
-<br>
 Note:<br>
 &emsp;&emsp;You may assume k is always valid, 1 ≤ k ≤ array's length.<br>
 </p>
