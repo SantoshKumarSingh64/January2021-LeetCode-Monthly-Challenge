@@ -19,7 +19,6 @@ Example 2:<br>
 &emsp; &emsp; &emsp;- Remove the first two 3's, then nums = [1,4,3]<br>
 &emsp; &emsp;&emsp;There are no more pairs that sum up to 6, hence a total of 1 operation.<br>
 <br>
-<br>
 Constraints:<br>
 &emsp; &emsp;•	1 <= nums.length <= 10^5<br>
 &emsp; &emsp;•	1 <= nums[i] <= 10^9<br>
