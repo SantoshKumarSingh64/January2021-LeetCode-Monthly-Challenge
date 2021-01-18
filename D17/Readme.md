@@ -19,7 +19,6 @@ Example 3:<br>
 &emsp;&emsp;Input: n = 33<br>
 &emsp;&emsp;Output: 66045<br>
 <br>
-<br>
 Constraints:<br>
 &emsp;&emsp;•	1 <= n <= 50 <br>
 </p>
