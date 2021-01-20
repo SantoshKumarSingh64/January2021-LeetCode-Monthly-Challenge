@@ -25,7 +25,6 @@ Example 5:<br>
 &emsp;&emsp;Input: s = "{[]}"<br>
 &emsp;&emsp;Output: true<br>
 <br>
-<br>
 Constraints:<br>
 &emsp;&emsp;•	1 <= s.length <= 10^4<br>
 &emsp;&emsp;•	s consists of parentheses only '()[]{}'.<br>
