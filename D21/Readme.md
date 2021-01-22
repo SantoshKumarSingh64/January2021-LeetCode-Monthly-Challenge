@@ -13,7 +13,6 @@ Example 2:<br>
 &emsp; &emsp;Input: nums = [2,4,3,3,5,4,9,6], k = 4<br>
 &emsp; &emsp;Output: [2,3,3,4]<br>
 <br>
-<br>
 Constraints:<br>
 &emsp; &emsp;•	1 <= nums.length <= 10^5<br>
 &emsp; &emsp;•	0 <= nums[i] <= 10^9<br>
