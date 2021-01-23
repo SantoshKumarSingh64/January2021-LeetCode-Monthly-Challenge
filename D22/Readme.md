@@ -33,7 +33,6 @@ Example 4:<br>
 &emsp;&emsp;Output: false<br>
 &emsp;&emsp;Explanation: It is impossible to attain word2 from word1, or vice versa, in any amount of operations.<br>
 <br>
-<br>
 Constraints:<br>
 &emsp;&emsp;•	1 <= word1.length, word2.length <= 10^5<br>
 &emsp;&emsp;•	word1 and word2 contain only lowercase English letters.<br>
