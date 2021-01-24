@@ -23,7 +23,6 @@ Example 3:<br>
 &emsp;&emsp;Input: lists = [[]]<br>
 &emsp;&emsp;Output: []<br>
 <br>
-<br>
 Constraints:<br>
 &emsp;&emsp;•	k == lists.length<br>
 &emsp;&emsp;•	0 <= k <= 10^4<br>
