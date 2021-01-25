@@ -26,7 +26,6 @@ Example 4:<br>
 &emsp;&emsp;Input: nums = [0,1,0,1], k = 1<br>
 &emsp;&emsp;Output: true<br>
 <br>
-<br>
 Constraints:<br>
 &emsp;&emsp;•	1 <= nums.length <= 10^5<br>
 &emsp;&emsp;•	0 <= k <= nums.length<br>
