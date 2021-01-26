@@ -30,7 +30,6 @@ Example 3:<br>
 &emsp;&emsp;Explanation: This route does not require any effort.<br>
 <br>
 <br>
-<br>
 Constraints:<br>
 &emsp;&emsp;•	rows == heights.length<br>
 &emsp;&emsp;•	columns == heights[i].length<br>
