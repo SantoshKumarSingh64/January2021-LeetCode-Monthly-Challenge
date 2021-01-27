@@ -21,7 +21,6 @@ Example 3:<br>
 &emsp;&emsp;&emsp;&emsp;After modulo 109 + 7, the result is 505379714.<br>
 <br>
 <br>
-<br>
 Constraints:<br>
 &emsp;&emsp;•	1 <= n <= 10^5<br>
 <br></p>
