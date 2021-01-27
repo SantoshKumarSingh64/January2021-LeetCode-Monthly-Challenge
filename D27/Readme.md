@@ -18,7 +18,7 @@ Example 3:<br>
 &emsp;&emsp;Output: 505379714<br>
 &emsp;&emsp;Explanation: The concatenation results in "1101110010111011110001001101010111100".<br>
 &emsp;&emsp;&emsp;&emsp;The decimal value of that is 118505380540.<br>
-&emsp;&emsp;&emsp;&emsp;After modulo 109 + 7, the result is 505379714.<br>
+&emsp;&emsp;&emsp;&emsp;After modulo 10^9 + 7, the result is 505379714.<br>
 <br>
 <br>
 Constraints:<br>
