@@ -27,7 +27,6 @@ Example 2:<br>
 &emsp;&emsp;&emsp;&emsp;However, in the report [1,5,6], the node with value 5 comes first since 5 is smaller than 6.<br>
 <br>
 <br>
-<br>
 Constraints:<br>
 &emsp;&emsp;•	The number of nodes in the tree is in the range [1, 1000].<br>
 &emsp;&emsp;•	0 <= Node.val <= 1000<br>
