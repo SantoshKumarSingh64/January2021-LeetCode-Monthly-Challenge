@@ -7,7 +7,7 @@ Return the vertical order traversal of the binary tree.<br>
 <br> 
 Example 1:<br>
  <br>
- &emsp;&emsp;&emsp;&emsp;<img src = "https://assets.leetcode.com/uploads/2019/01/31/1236_example_1.PNG"><br>
+ &emsp;&emsp;&emsp;&emsp;<img src="https://assets.leetcode.com/uploads/2019/01/31/1236_example_1.PNG"><br>
  <br>
 &emsp;&emsp;Input: root = [3,9,20,null,null,15,7]<br>
 &emsp;&emsp;Output: [[9],[3,15],[20],[7]]<br>
@@ -19,7 +19,7 @@ Example 1:<br>
 <br>
 Example 2:<br>
 <br>
-&emsp;&emsp;&emsp;&emsp;<img src = "https://assets.leetcode.com/uploads/2019/01/31/tree2.png"><br>
+&emsp;&emsp;&emsp;&emsp;<img src="https://assets.leetcode.com/uploads/2019/01/31/tree2.png"><br>
 <br>
 &emsp;&emsp;Input: root = [1,2,3,4,5,6,7]<br>
 &emsp;&emsp;Output: [[4],[2],[1,5,6],[3],[7]]<br>
