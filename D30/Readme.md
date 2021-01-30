@@ -23,8 +23,6 @@ Example 3:<br>
 &emsp;&emsp;Input: nums = [2,10,8]<br>
 &emsp;&emsp;Output: 3<br>
 <br>
-<br>
-<br>
 Constraints:<br>
 &emsp;&emsp;•	n == nums.length<br>
 &emsp;&emsp;•	2 <= n <= 10^5<br>
