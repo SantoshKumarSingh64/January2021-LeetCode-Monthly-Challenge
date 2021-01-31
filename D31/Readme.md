@@ -21,7 +21,6 @@ Example 4:<br>
 &emsp;&emsp;Output: [1]<br>
 <br>
 <br>
-<br>
 Constraints:<br>
 &emsp;&emsp;•	1 <= nums.length <= 100<br>
 &emsp;&emsp;•	0 <= nums[i] <= 100<br>
